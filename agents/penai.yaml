@@ -1,0 +1,4 @@
+interface:
+  display_name: "魏老师审稿回复风格"
+  short_description: "提炼魏老师返修习惯，直接回应审稿问题、突出结果并准确标明修改位置"
+  default_prompt: "请使用 $wei-review-response，按魏老师的返修风格修改这段回复，保留事实与证据强度，列出必要的核实项。"
